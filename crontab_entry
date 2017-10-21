@@ -1,0 +1,1 @@
+*/30 * * * * /usr/bin/sudo -H /home/jherr/projects/ckinet/ckinet.sh >> /dev/null 2>&1
