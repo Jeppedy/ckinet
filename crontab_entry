@@ -1,1 +1,5 @@
-*/30 * * * * /usr/bin/sudo -H /home/jherr/projects/ckinet/ckinet.sh >> /dev/null 2>&1
+# Use the below command to add a line to the CronTab file
+# Remember!  Change the path to the file
+#
+# echo "*/30 * * * * /usr/bin/sudo -H /home/jherr/projects/ckinet/ckinet.sh >> /dev/null 2>&1" >> /etc/crontab
+
