@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOGFILE=/home/jherr/projects/ckinet/ckinet.log
+LOGFILE=/var/log/ckinet.log
 
 COUNTER=0
 while [ $COUNTER -lt 5 ]; do
